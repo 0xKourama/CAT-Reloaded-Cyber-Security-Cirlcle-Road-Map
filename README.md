@@ -58,4 +58,4 @@ you should study everytime if you are beginner or expert you will not reach the 
 	- [Network Pentesting](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing "Network Pentesting")
 	- [Mobile Pentesting](https://drive.google.com/drive/folders/1UUk4SZIh_2iLQgzyrOlLkFFbWCrZOJ0t?usp=sharing "Mobile Pentesting") 
 2. [Reverse Engineering & Malware Analysis](https://drive.google.com/file/d/1VmkBK89A4DXLkZq2FA-eVdoJx2C1KMeC/view?usp=sharing "Reverse Engineering & Malware Analysis")
-3. [Network Security](Network Security "Network Security")
+3. [Network Security](https://docs.google.com/document/d/1y1StwJFtd5gtT5LR8cr2n4SysiNABdDNMngVVFmAgjM/edit?usp=sharing "Network Security")
