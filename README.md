@@ -13,13 +13,13 @@ you can chat with me any time, feel free to talk with me [Yasser Elsnbary](https
 
 ![CAT Logo](img/icon.png)
 
-:tw-27a1:  What is [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")?
+▶ What is [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")?
 [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded") Abbreviation for Computer Assistance Team was from 1996 and reloaded again so it gained its name CAT Reloaded from this matter.
 
-:tw-27a1:  What do we do in [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")?
+▶ What do we do in [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded")?
 The team is interested in forming technical circles in order to form communities that help and participate in learning modern software technology such as: information security, web development, mobile development, data science and graphic design.
 
-:tw-27a1:  How can you follow us on social media or offline?
+▶ How can you follow us on social media or offline?
 [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded") community in Mansoura, you know more about us and our activities through our social media:
 [Web site](http://catreloaded.org/ "Web site")
 [Facebook Page](https://www.facebook.com/pg/CATReloaded "Facebook Page")
@@ -29,18 +29,18 @@ The team is interested in forming technical circles in order to form communities
 [YouTube](https://www.youtube.com/user/C4TReloaded "YouTube")
 
 
-:tw-27a1:  How to be a member of CAT Reloaded?
+▶ How to be a member of CAT Reloaded?
 Almost every year we host a recruitment [Event](https://www.facebook.com/events/375956410319681/?active_tab=discussion "Event") in Mansoura University to attract all of the interested students in Computer Science in general, categorizing them in Circles meant for different fields, of course there is a Cyber Security Circle.
 
 
 
 ## before start you should know:
 
-:tw-27a1:  So what is“Cyber Security”?
+▶  So what is“Cyber Security”?
 -It is the protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide
  enriched your mind with these talks from [TEDx](https://www.ted.com/playlists/10/who_are_the_hackers "TEDx") about cybersecurity and hackers.
 
-:tw-27a1:  What do we need to start?
+▶ What do we need to start?
  -To start you should build your land hard so we have some basics you should      know at first to be ready to start your study in cybersecurity. These basics will be in our entry level.
 
 “You do not need any requirements to start, you only need Passion, Power and Persistence”
@@ -52,7 +52,7 @@ We make an effort to make our paths in this field or in our life to make it easi
 
 you should study everytime if you are beginner or expert you will not reach the top because this track is increasing rapidly you can't imagine that it has a lot of branches like Pentesting, Reverse Engineering, Digital Forensics and a lot of them and a lot of jobs in this career to ensure of that please watch this video.
 
-:tw-27a1:  What are our branches in Circle?
+▶ What are our branches in Circle?
 1. [Penetration testing](https://drive.google.com/drive/folders/1U_Y9-pp7f2pTT3NSWVnhFkztpVmEROuj?usp=sharing "Penetration testing")
 	- [Web Pentesting](https://drive.google.com/file/d/1YlYBgkith2ycK8aqP2bv_a-S9YD6LANi/view?usp=sharing "Web Pentesting")
 	- [Network Pentesting](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing "Network Pentesting")
