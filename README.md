@@ -31,11 +31,17 @@ you can chat with me any time, feel free to talk with me [Yasser Elsnbary](https
 📌 [CAT Reloaded](https://www.facebook.com/CATReloaded "CAT Reloaded") community in Mansoura, you know more about us and our activities through our social media:
 
 💻[Web site](http://catreloaded.org/ "Web site")
+
 💻[GitHub](https://github.com/CATReloaded "Web site")
+
 📱 [Facebook Page](https://www.facebook.com/pg/CATReloaded "Facebook Page")
+
 📱 [Facebook Group](https://www.facebook.com/groups/catreloaded.team "Facebook Group")
+
 📱 [Twitter](https://twitter.com/CATReloaded "Twitter")
+
 📱 [Linkedin](https://www.linkedin.com/company/cat-reloaded/ "Linkedin")
+
 👓[YouTube](https://www.youtube.com/user/C4TReloaded "YouTube")
 
 ------------
