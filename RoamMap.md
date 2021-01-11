@@ -92,15 +92,14 @@ We have downloaded all of these courses for you so if you need any of this data 
 **Plan Time-Line** Soon
 optional to make it easy to study
 
-
 #Technical Mentors
 
-## Muhammed Gamal
+## [Muhammed Gamal](https://www.linkedin.com/in/mgyounis/ "Muhammed Gamal")
 Technical Mentor for **Penetration Testing**
-You Can Learn More From **Here**
-## Menna Essa
+You Can Learn More From **[Here](https://www.facebook.com/CATReloaded/photos/4184330158308220/ "Here")**
+## [Menna Essa](https://www.linkedin.com/in/menna-sh-essa/ "Menna Essa")
 Technical Mentor for **Reverse Engineering & Malware Analysis**
-You Can Learn More From **Here**
-## Islam Talaat
+You Can Learn More From **[Here](https://www.facebook.com/CATReloaded/photos/4316533688421199/ "Here")**
+## [Islam Talaat](https://www.linkedin.com/in/islam-talaat/ "Islam Talaat")
 Technical Mentor for **Network Security**
-You Can Learn More From **Here**
+You Can Learn More From **[Here](https://www.facebook.com/CATReloaded/photos/4300097826731452/ "Here")**
