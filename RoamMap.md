@@ -1,4 +1,5 @@
-#kickoff
+
+# kickoff
 
 Before we begin in this level you should know something called
 -  “Learning  difficulties”:
@@ -21,7 +22,7 @@ This is the longest and most important level in the circle’s technical road ma
 It’s recommended to study the materials in the order mentioned below.
 
 
-##Reverse Engineering & Malware Analysis Path (REMAR)
+## Reverse Engineering & Malware Analysis Path (REMAR)
 
 Our New Roadmap HERE includes many steps from Zero to Hero, BTW you will need to practice more.
 
@@ -34,7 +35,7 @@ optional to make it easy to study
 
   ##Penetration Testing Path
 
-###Web App Penetration testing Path (WAPTR)
+### Web App Penetration testing Path (WAPTR)
 
 Our New Roadmap HERE includes many steps from Zero to Hero, BTW you will need to practice more.
 
@@ -55,7 +56,7 @@ If you are stuck in a lab solution, try searching on Google
 optional to make it easy to study
 			
 
-###Network Penetration testing Path (NPTR)
+### Network Penetration testing Path (NPTR)
 
 Our New Roadmap **HERE** includes many steps from Zero to Hero, BTW you will need to practice more.
 
@@ -66,13 +67,13 @@ We will Practice on Machines **HTB** , **tryHackMe** , **Vulnhub Walkthrough**
 **Plan Time-Line** Soon
 optional to make it easy to study
 
-###Mobile App Penetration testing Path (MAPTP)
+### Mobile App Penetration testing Path (MAPTP)
 Under construction … 
 
 **Plan Time-Line** Soon
 optional to make it easy to study
 
-###Network Security Path (defensive)
+### Network Security Path (defensive)
 
 **CCNA course by Jeremy Cioara** (well first thing is first we need to understand the basic protocols and concepts of network and this course is the main method to achieve this target).
 	
@@ -94,12 +95,12 @@ optional to make it easy to study
 
 #Technical Mentors
 
-##Muhammed Gamal
+## Muhammed Gamal
 Technical Mentor for **Penetration Testing**
 You Can Learn More From **Here**
-##Menna Essa
+## Menna Essa
 Technical Mentor for **Reverse Engineering & Malware Analysis**
 You Can Learn More From **Here**
-##Islam Talaat
+## Islam Talaat
 Technical Mentor for **Network Security**
 You Can Learn More From **Here**
