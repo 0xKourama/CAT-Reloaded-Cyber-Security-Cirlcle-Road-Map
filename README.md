@@ -99,9 +99,9 @@ You should take an overview in:
 
 📌 1. Operating System **(LINUX)**
 
-📌 2. Programming language **(PYTHON) **
+📌 2. Programming language **(PYTHON)**
 
-📌 3. **Networking **
+📌 3. **Networking**
 
 ▶ After that you should know what you will study **Pentesting** or **Reverse** or **Networking** 
 
