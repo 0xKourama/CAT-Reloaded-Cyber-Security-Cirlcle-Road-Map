@@ -117,6 +117,28 @@ You should take an overview in:
 
 ------------
 
+# kickoff
+
+1. **Before we begin in this level you should know something called:**
+	**-  “Learning  difficulties”:**
+
+	How you study books and references, you must know that many difficulties will confront you with everything you learn, so you should not be bored or unable to do what you must do.
+
+	You must know that you will stop a lot and you will not understand too 
+	much, but you must return and resist
+
+	**You must write and practice for everything you learn so that you do not get lost from you, either in your hand or in a text file on your personal computer. Massive practice .**
+
+11. This stage is for those **who will pass the Entry Level.**
+
+13. Before you start, you must Choose your **path** from the 3 **branches**.
+
+15. Please note that the **links** and **courses** below are recommended but may not be  the **best** for everyone, so if you **struggle** during one of these, you should seek something else.
+
+17. This is the **longest** and most **important** level in the circle’s technical road map. It may take more than a year but it is really worth it. A circle member with this knowledge will be fully ready to have **internships** and begin the professional advanced study phase.
+
+19. It’s **recommended** to study the materials in the **order** mentioned below.
+
 ------------
 
 
