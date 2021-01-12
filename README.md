@@ -96,11 +96,14 @@ you can chat with me any time, feel free to talk with me [Yasser Elsnbary](https
 	Firstly you need to know if your **passion** is true or false, right or wrong for cyber security to measure your **loving** and **capability** in this field
 
 You should take an overview in:
+
 📌 1. Operating System **(LINUX)**
+
 📌 2. Programming language **(PYTHON) **
+
 📌 3. **Networking **
 
-▶ After that you should know what you will study Pentesting or Reverse or Networking 
+▶ After that you should know what you will study **Pentesting** or **Reverse** or **Networking** 
 
 ▶ **Notes:**
 
