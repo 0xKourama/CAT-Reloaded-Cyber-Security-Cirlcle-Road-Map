@@ -201,6 +201,27 @@ optional to make it easy to study
 
 ------------
 
+**[Network Security Path (defensive)](https://docs.google.com/document/d/1y1StwJFtd5gtT5LR8cr2n4SysiNABdDNMngVVFmAgjM/edit?usp=sharing "Network Security Path (defensive)")**
+
+1. **[CCNA course by Jeremy Cioara](https://www.1377x.to/torrent/112935/CBT-Nuggets-Cisco-CCNA-Certification-Package/ "CCNA course by Jeremy Cioara")** (well first thing is first we need to understand the basic protocols and concepts of network and this course is the main method to achieve this target).
+
+3. **[CCNA-security course by CBt nuggets](https://www.1377x.to/torrent/1380636/CBT-Nuggets-Cisco-CCNA-Security-210-260-IINS/ "CCNA-security course by CBt nuggets")** (this course is the real deal when it comes to network security fundamentals as it  illustrates so many basic technologies and concepts).
+
+5. **[Vmware course](https://www.1377x.to/torrent/3894485/CBT-Nuggets-VMware-NSX-Introduction-and-Installation-FCO/ "Vmware course")** We will walk ourselves together in the virtual machines world through the intermediate level period in the VMware workstation but if you have any intention in taking this as a real challenge you could check this course as well Vmware course.
+
+7. **routeHub - FortiGate 6.0 Firewall Training** (this course dives in the firewall technology as it walks us through the fortigate firewall which is one of the most used products in the industry 
+Although it’s a slightly older version but there’s no huge differences in the new version  
+
+**Notes: **
+All of these courses are in English with English subtitles .. if you struggled with it in the beginning please don’t give up. It's highly recommended that you continue gradually because there’s no equivalent quality in Vmware course .. And if it's necessary you can check this **[Arabic](https://www.youtube.com/user/abeerhosni "Arabic")** channel.
+We have downloaded all of these courses for you so if you need any of this data offline kindly inform the circle leader before any of the sessions or meetings.
+
+
+- **Plan Time-Line **Soon
+optional to make it easy to study
+
+------------
+
 # Technical Mentors
 
 ## [Muhammed Gamal](https://www.linkedin.com/in/mgyounis/ "Muhammed Gamal")
