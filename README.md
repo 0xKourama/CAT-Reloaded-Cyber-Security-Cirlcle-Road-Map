@@ -2,12 +2,12 @@
 
 | 📚 Content                                                  | 🔎 Roadmaps                                              | 
 |-------------------------------------------------------------|-----------------------------------------------------------| 
-| [CAT Reloaded Cyber Security PATH](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#cat-reloaded-cyber-security-path)| [Reverse Engineering & Malware Analysis Path (REMAR)]([Technical Mentors](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#kickoff))| 
-| [CAT Reloaded](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#cat-reloaded)|[Penetration Testing Path]([Technical Mentors](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#kickoff))|
-| [before start you should know](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#before-start-you-should-know)| [Network Penetration testing Path (NPTR)]                 | 
-| [ENTRY LEVEL](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#entry-level)|                      					  | 
+| [CAT Reloaded Cyber Security PATH](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#cat-reloaded-cyber-security-path)|[Reverse Engineering & Malware Analysis Path (REMAR)]([Technical Mentors](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#1%EF%B8%8F%E2%83%A3-reverse-engineering--malware-analysis-path-remar)| 
+| [CAT Reloaded](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#cat-reloaded)|[Penetration Testing Path](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#2%EF%B8%8F%E2%83%A3-penetration-testing-path)|
+| [before start you should know](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#before-start-you-should-know)| [Network Penetration testing Path (NPTR)](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#network-penetration-testing-path-nptr)                 | 
+| [ENTRY LEVEL](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#entry-level)|                      		 
 |[Kickoff](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#kickoff)|              						 
-|[Technical Mentors](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#kickoff)|                       					               
+|[Technical Mentors](https://github.com/YasserElsnbary/CAT-Reloaded-Cyber-Security-Cirlcle-Road-Map#technical-mentors)|                       					               
 ## [CAT Reloaded Cyber Security PATH](https://docs.google.com/document/d/1LIJWZ2EpaT6O0yvQhLKKj-bmRkROYfRsJClZuNqkThk/edit?usp=sharing "CAT Reloaded Cyber Security PATH") 
 
    In the beginning; I must mention [Nidal Fikri](https://www.linkedin.com/in/nidal-fikri-776403125/ "Nidal Fikri") who brought the Circle back to work and we learned a lot from him.
@@ -210,7 +210,7 @@ optional to make it easy to study
 
 ------------
 
-## [Network Penetration testing Path (NPTR)](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing "Network Penetration testing Path (NPTR)")
+### [ Network Penetration testing Path (NPTR)](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing "Network Penetration testing Path (NPTR)")
 
 ![CAT Logo](img/nw.png)
 
@@ -236,7 +236,7 @@ optional to make it easy to study
 
 ------------
 
-**[3️⃣ Network Security Path (defensive)](https://docs.google.com/document/d/1y1StwJFtd5gtT5LR8cr2n4SysiNABdDNMngVVFmAgjM/edit?usp=sharing "Network Security Path (defensive)")**
+## **[3️⃣ Network Security Path (defensive)](https://docs.google.com/document/d/1y1StwJFtd5gtT5LR8cr2n4SysiNABdDNMngVVFmAgjM/edit?usp=sharing "Network Security Path (defensive)")**
 
 📌 1. **[CCNA course by Jeremy Cioara](https://www.1377x.to/torrent/112935/CBT-Nuggets-Cisco-CCNA-Certification-Package/ "CCNA course by Jeremy Cioara")** (well first thing is first we need to understand the basic protocols and concepts of network and this course is the main method to achieve this target).
 
