@@ -142,6 +142,19 @@ You should take an overview in:
 ------------
 
 
+## [Reverse Engineering & Malware Analysis Path (REMAR)](https://drive.google.com/file/d/1VmkBK89A4DXLkZq2FA-eVdoJx2C1KMeC/view?usp=sharing "Reverse Engineering & Malware Analysis Path (REMAR)")
+
+1. Our New Roadmap [HERE](https://drive.google.com/file/d/1VmkBK89A4DXLkZq2FA-eVdoJx2C1KMeC/view?usp=sharing "HERE") includes many steps from **Zero** to **Hero**
+**BTW** you will need to practice more.
+
+4.  check out this really nice roadmap made by a fellow CATian!
+
+
+**Plan Time-Line** Soon
+optional to make it easy to study
+
+------------
+
 # Technical Mentors
 
 ## [Muhammed Gamal](https://www.linkedin.com/in/mgyounis/ "Muhammed Gamal")
