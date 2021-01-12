@@ -123,11 +123,11 @@ You should take an overview in:
 	
 **-  “Learning  difficulties”:**
 
-How you study books and references, you must know that many difficulties will confront you with everything you learn, so you should not be bored or unable to do what you must do.
+🔴 How you study books and references, you must know that many difficulties will confront you with everything you learn, so you should not be bored or unable to do what you must do.
 
-You must know that you will stop a lot and you will not understand too much, but you must return and resist
+🔴 You must know that you will stop a lot and you will not understand too much, but you must return and resist
 
-**You must write and practice for everything you learn so that you do not get lost from you, either in your hand or in a text file on your personal computer. Massive practice .**
+**🔴 You must write and practice for everything you learn so that you do not get lost from you, either in your hand or in a text file on your personal computer. Massive practice .**
 
 📌 2. This stage is for those **who will pass the Entry Level.**
 
@@ -167,13 +167,20 @@ optional to make it easy to study
 	- Create account on **[hackerone](https://www.hackerone.com/ "hackerone")** , **[bugcrowd](https://www.bugcrowd.com/ "bugcrowd")**, **[intigriti](https://www.intigriti.com/programs "intigriti")**
 	- You should practice very well so you should Download [OWASP Broken Web Application project](https://sourceforge.net/projects/owaspbwa/ "OWASP Broken Web Application project") Try to install it on VMware or VirtualBox from [Here](https://www.youtube.com/watch?v=p7uqu4o3RhY&t=507s "Here")
 	- preferable to download this first and practice very well i love:
-		- [bwapp](http://www.itsecgames.com/ "bwapp") 
-		- [Dvwa](https://tryhackme.com/room/dvwa "Dvwa")
-		- [portswigger labs](https://portswigger.net/web-security "portswigger labs")
-		- [Hack The Box](https://www.hackthebox.eu/ "Hack The Box")
-		- [OWASP Juicy](https://tryhackme.com/room/owaspjuiceshop "OWASP Juicy")
-		- [TryHackMe](https://tryhackme.com/ "TryHackMe")
-	- If you are stuck in a lab solution, try searching on [Google](http://google.com/ "Google")
+
+  1️⃣[bwapp](http://www.itsecgames.com/ "bwapp")
+
+  2️⃣[Dvwa](https://tryhackme.com/room/dvwa "Dvwa")
+
+  3️⃣[portswigger labs](https://portswigger.net/web-security "portswigger labs")
+
+  4️⃣ [Hack The Box](https://www.hackthebox.eu/ "Hack The Box")
+
+  5️⃣[OWASP Juicy](https://tryhackme.com/room/owaspjuiceshop "OWASP Juicy")
+
+  6️⃣[TryHackMe](https://tryhackme.com/ "TryHackMe")
+	  
+- If you are stuck in a lab solution, try searching on [Google](http://google.com/ "Google")
 
 - **Plan Time-Line** Soon
 
