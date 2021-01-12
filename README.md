@@ -93,7 +93,7 @@ you can chat with me any time, feel free to talk with me [Yasser Elsnbary](https
 
 
 ▶ Entry level will **not** make you professionals or have a high level in this topic.
-Firstly you need to know if your **passion** is true or false, right or wrong for cyber security to measure your **loving** and **capability** in this field
+	Firstly you need to know if your **passion** is true or false, right or wrong for cyber security to measure your **loving** and **capability** in this field
 
 You should take an overview in:
 📌 1. Operating System **(LINUX)**
@@ -106,7 +106,7 @@ You should take an overview in:
 
 📌 1. At the end of this level, a member can decide if he joined the right circle for him or not.
 
-📌 2. Please note that the links and courses below are my recommended but may not be the best for everyone, so if you struggle during one of these, you should seek something else.
+📌 2. Please note that the links and courses below are my recommended but may not be the best for everyone, so if you struggle during one of these, you should seek something 		else.
 
 📌 3. Every 2 weeks there’s a seminar with the leader of the branch to discuss what’s next and what has been achieved so far.
 
