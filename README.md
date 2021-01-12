@@ -167,4 +167,49 @@ You Can Learn More From **[Here](https://www.facebook.com/CATReloaded/photos/431
 Technical Mentor for **Network Security**
 You Can Learn More From **[Here](https://www.facebook.com/CATReloaded/photos/4300097826731452/ "Here")**
 
+------------
+
+## [ Penetration Testing Path](https://drive.google.com/drive/folders/1U_Y9-pp7f2pTT3NSWVnhFkztpVmEROuj?usp=sharing " Penetration Testing Path")
+
+### [Web App Penetration testing Path (WAPTR)](https://drive.google.com/file/d/1YlYBgkith2ycK8aqP2bv_a-S9YD6LANi/view?usp=sharing "Web App Penetration testing Path (WAPTR)")
+
+1. Our New Roadmap [HERE](https://drive.google.com/file/d/1YlYBgkith2ycK8aqP2bv_a-S9YD6LANi/view?usp=sharing "HERE") includes many steps from **Zero** to **Hero**
+**BTW** you will need to practice more.
+
+4. **To Practice:**
+	- Create account on **[hackerone](https://www.hackerone.com/ "hackerone")** , **[bugcrowd](https://www.bugcrowd.com/ "bugcrowd")**, **[intigriti](https://www.intigriti.com/programs "intigriti")**
+	- You should practice very well so you should Download [OWASP Broken Web Application project](https://sourceforge.net/projects/owaspbwa/ "OWASP Broken Web Application project") Try to install it on VMware or VirtualBox from [Here](https://www.youtube.com/watch?v=p7uqu4o3RhY&t=507s "Here")
+	- preferable to download this first and practice very well i love:
+		- [bwapp](http://www.itsecgames.com/ "bwapp") 
+		- [Dvwa](https://tryhackme.com/room/dvwa "Dvwa")
+		- [portswigger labs](https://portswigger.net/web-security "portswigger labs")
+		- [Hack The Box](https://www.hackthebox.eu/ "Hack The Box")
+		- [OWASP Juicy](https://tryhackme.com/room/owaspjuiceshop "OWASP Juicy")
+		- [TryHackMe](https://tryhackme.com/ "TryHackMe")
+	- If you are stuck in a lab solution, try searching on [Google](http://google.com/ "Google")
+
+- **Plan Time-Line** Soon
+	optional to make it easy to study
+
+------------
+
+### [Network Penetration testing Path (NPTR)](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing "Network Penetration testing Path (NPTR)")
+
+1. Our New Roadmap **[HERE](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing "HERE")** includes many steps from **Zero** to **Hero** 
+**BTW** you will need to practice more.
+
+4. There are many option Courses each course include content may conflict with other courses but there are courses to be unique.
+
+6. We will Practice on Machines **[HTB](https://www.hackthebox.eu/ "HTB")** , **[tryHackMe](https://tryhackme.com/ "tryHackMe")** , **[Vulnhub Walkthrough](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups "Vulnhub Walkthrough")**
+
+- **Plan Time-Line** Soon
+optional to make it easy to study
+
+------------
+
+### [Mobile App Penetration testing Path (MAPTP)](https://drive.google.com/drive/folders/1UUk4SZIh_2iLQgzyrOlLkFFbWCrZOJ0t?usp=sharing "Mobile App Penetration testing Path (MAPTP)")
+Under construction … 
+
+- **Plan Time-Line** Soon
+optional to make it easy to study
 
