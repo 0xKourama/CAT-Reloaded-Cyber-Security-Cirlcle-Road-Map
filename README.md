@@ -86,3 +86,29 @@ you can chat with me any time, feel free to talk with me [Yasser Elsnbary](https
 	- [Mobile Pentesting](https://drive.google.com/drive/folders/1UUk4SZIh_2iLQgzyrOlLkFFbWCrZOJ0t?usp=sharing "Mobile Pentesting") ⌛
 2. [Reverse Engineering & Malware Analysis](https://drive.google.com/file/d/1VmkBK89A4DXLkZq2FA-eVdoJx2C1KMeC/view?usp=sharing "Reverse Engineering & Malware Analysis")✅
 3. [Network Security](https://docs.google.com/document/d/1y1StwJFtd5gtT5LR8cr2n4SysiNABdDNMngVVFmAgjM/edit?usp=sharing "Network Security")✅
+
+------------
+
+# ENTRY LEVEL
+
+
+▶ Entry level will **not** make you professionals or have a high level in this topic.
+Firstly you need to know if your **passion** is true or false, right or wrong for cyber security to measure your **loving** and **capability** in this field
+
+You should take an overview in:
+📌 1. Operating System **(LINUX)**
+📌 2. Programming language **(PYTHON) **
+📌 3. **Networking **
+
+▶ After that you should know what you will study Pentesting or Reverse or Networking 
+
+▶ **Notes:**
+📌 1. At the end of this level, a member can decide if he joined the right circle for him or not.
+
+📌 2. Please note that the links and courses below are my recommended but may not be the best for everyone, so if you struggle during one of these, you should seek something else.
+
+📌 3. Every 2 weeks there’s a seminar with the leader of the branch to discuss what’s next and what has been achieved so far.
+
+#### [Plan Time-Line](https://docs.google.com/document/d/1tkTilM82PxNjtr7IDOhXhEBIVVQD5KGvTk_J55lYeyI/edit?usp=sharing "Plan Time-Line")
+
+
