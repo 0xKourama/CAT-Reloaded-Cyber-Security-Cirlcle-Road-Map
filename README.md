@@ -107,11 +107,11 @@ You should take an overview in:
 
 ▶ **Notes:**
 
-📌 1. At the end of this level, a member can decide if he joined the right circle for him or not.
+🔴 1. At the end of this level, a member can decide if he joined the right circle for him or not.
 
-📌 2. Please note that the links and courses below are my recommended but may not be the best for everyone, so if you struggle during one of these, you should seek something 		else.
+🔴 2. Please note that the links and courses below are my recommended but may not be the best for everyone, so if you struggle during one of these, you should seek something 		else.
 
-📌 3. Every 2 weeks there’s a seminar with the leader of the branch to discuss what’s next and what has been achieved so far.
+🔴 3. Every 2 weeks there’s a seminar with the leader of the branch to discuss what’s next and what has been achieved so far.
 
 #### ▶ [Plan Time-Line](https://docs.google.com/document/d/1tkTilM82PxNjtr7IDOhXhEBIVVQD5KGvTk_J55lYeyI/edit?usp=sharing "Plan Time-Line")
 
