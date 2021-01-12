@@ -223,8 +223,9 @@ optional to make it easy to study
 📌 4. **routeHub - FortiGate 6.0 Firewall Training** (this course dives in the firewall technology as it walks us through the fortigate firewall which is one of the most used products in the industry 
 Although it’s a slightly older version but there’s no huge differences in the new version  
 
-**Notes: **
-All of these courses are in English with English subtitles .. if you struggled with it in the beginning please don’t give up. It's highly recommended that you continue gradually because there’s no equivalent quality in Vmware course .. And if it's necessary you can check this **[Arabic](https://www.youtube.com/user/abeerhosni "Arabic")** channel.
+**Notes:**
+
+🔴 All of these courses are in English with English subtitles .. if you struggled with it in the beginning please don’t give up. It's highly recommended that you continue gradually because there’s no equivalent quality in Vmware course .. And if it's necessary you can check this **[Arabic](https://www.youtube.com/user/abeerhosni "Arabic")** channel.
 We have downloaded all of these courses for you so if you need any of this data offline kindly inform the circle leader before any of the sessions or meetings.
 
 
