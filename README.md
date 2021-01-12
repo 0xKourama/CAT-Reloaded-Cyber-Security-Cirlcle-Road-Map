@@ -113,6 +113,6 @@ You should take an overview in:
 
 📌 3. Every 2 weeks there’s a seminar with the leader of the branch to discuss what’s next and what has been achieved so far.
 
-#### [Plan Time-Line](https://docs.google.com/document/d/1tkTilM82PxNjtr7IDOhXhEBIVVQD5KGvTk_J55lYeyI/edit?usp=sharing "Plan Time-Line")
+▶ #### [Plan Time-Line](https://docs.google.com/document/d/1tkTilM82PxNjtr7IDOhXhEBIVVQD5KGvTk_J55lYeyI/edit?usp=sharing "Plan Time-Line")
 
 
