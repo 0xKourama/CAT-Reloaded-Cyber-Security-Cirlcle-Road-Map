@@ -103,6 +103,7 @@ You should take an overview in:
 ▶ After that you should know what you will study Pentesting or Reverse or Networking 
 
 ▶ **Notes:**
+
 📌 1. At the end of this level, a member can decide if he joined the right circle for him or not.
 
 📌 2. Please note that the links and courses below are my recommended but may not be the best for everyone, so if you struggle during one of these, you should seek something else.
