@@ -50,6 +50,7 @@ you can chat with me any time, feel free to talk with me [Yasser Elsnbary](https
 
 📌 Almost every year we host a recruitment [Event](https://www.facebook.com/events/375956410319681/?active_tab=discussion "Event") in Mansoura University to attract all of the interested students in Computer Science in general, categorizing them in Circles meant for different fields, of course there is a Cyber Security Circle.
 
+![CAT Logo](img/m.jpg)
 ------------
 
 ## before start you should know:
@@ -75,7 +76,7 @@ you can chat with me any time, feel free to talk with me [Yasser Elsnbary](https
 
 📌 We make an effort to make our paths in this field or in our life to make it easier from other mentors, good resources, study smart and be in touch with new technologies. This is a way to learn, this field is different from other fields.
 
-📌 you should study everytime if you are beginner or expert you will not reach the top because this track is increasing rapidly you can't imagine that it has a lot of branches like Pentesting, Reverse Engineering, Digital Forensics and a lot of them and a lot of jobs in this career to ensure of that please watch this video.
+📌 you should study everytime if you are beginner or expert you will not reach the top because this track is increasing rapidly you can't imagine that it has a lot of branches like Pentesting, Reverse Engineering, Digital Forensics and a lot of them and a lot of jobs in this career to ensure of that please watch this [video](https://youtu.be/2TofunAI6fU "video").
 
 ------------
 
@@ -91,6 +92,7 @@ you can chat with me any time, feel free to talk with me [Yasser Elsnbary](https
 
 # ENTRY LEVEL
 
+![CAT Logo](img/circle.png)
 
 ▶ Entry level will **not** make you professionals or have a high level in this topic.
 	Firstly you need to know if your **passion** is true or false, right or wrong for cyber security to measure your **loving** and **capability** in this field
@@ -99,7 +101,15 @@ You should take an overview in:
 
 📌 1. Operating System **(LINUX)**
 
+![CAT Logo](img/linux.png)
+
+[why to use Linux ?](https://blog.catreloaded.org/2020/09/why-to-use-linux/)
+
 📌 2. Programming language **(PYTHON)**
+
+![CAT Logo](img/python.png)
+
+[why to Learn Python ?](https://blog.catreloaded.org/2020/07/python-for-cyber-security/)
 
 📌 3. **Networking**
 
@@ -144,6 +154,8 @@ You should take an overview in:
 
 ## 1️⃣ [Reverse Engineering & Malware Analysis Path (REMAR)](https://drive.google.com/file/d/1VmkBK89A4DXLkZq2FA-eVdoJx2C1KMeC/view?usp=sharing "Reverse Engineering & Malware Analysis Path (REMAR)")
 
+![CAT Logo](img/re.png)
+
 📌 1. Our New Roadmap [HERE](https://drive.google.com/file/d/1VmkBK89A4DXLkZq2FA-eVdoJx2C1KMeC/view?usp=sharing "HERE") includes many steps from **Zero** to **Hero**
 **BTW** you will need to practice more.
 
@@ -157,6 +169,8 @@ optional to make it easy to study
 ------------
 
 ## 2️⃣[ Penetration Testing Path](https://drive.google.com/drive/folders/1U_Y9-pp7f2pTT3NSWVnhFkztpVmEROuj?usp=sharing " Penetration Testing Path")
+
+![CAT Logo](img/pt.png)
 
 ### [Web App Penetration testing Path (WAPTR)](https://drive.google.com/file/d/1YlYBgkith2ycK8aqP2bv_a-S9YD6LANi/view?usp=sharing "Web App Penetration testing Path (WAPTR)")
 
@@ -189,6 +203,8 @@ optional to make it easy to study
 ------------
 
 ### [Network Penetration testing Path (NPTR)](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing "Network Penetration testing Path (NPTR)")
+
+![CAT Logo](img/nw.png)
 
 📌 1. Our New Roadmap **[HERE](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing "HERE")** includes many steps from **Zero** to **Hero** 
 **BTW** you will need to practice more.
