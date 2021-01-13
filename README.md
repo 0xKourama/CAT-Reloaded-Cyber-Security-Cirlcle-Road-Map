@@ -212,7 +212,6 @@ optional to make it easy to study
 
 ### [ Network Penetration testing Path (NPTR)](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing "Network Penetration testing Path (NPTR)")
 
-![CAT Logo](img/nw.png)
 
 📌 1. Our New Roadmap **[HERE](https://drive.google.com/file/d/1OGCm2PHs0qX1NqmkeZFv9q-lo10fPbht/view?usp=sharing "HERE")** includes many steps from **Zero** to **Hero** 
 **BTW** you will need to practice more.
@@ -237,6 +236,9 @@ optional to make it easy to study
 ------------
 
 ## **[3️⃣ Network Security Path (defensive)](https://docs.google.com/document/d/1y1StwJFtd5gtT5LR8cr2n4SysiNABdDNMngVVFmAgjM/edit?usp=sharing "Network Security Path (defensive)")**
+
+![CAT Logo](img/nw.png)
+
 
 📌 1. **[CCNA course by Jeremy Cioara](https://www.1377x.to/torrent/112935/CBT-Nuggets-Cisco-CCNA-Certification-Package/ "CCNA course by Jeremy Cioara")** (well first thing is first we need to understand the basic protocols and concepts of network and this course is the main method to achieve this target).
 
